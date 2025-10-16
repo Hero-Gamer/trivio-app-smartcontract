@@ -93,7 +93,7 @@ Priority 2:
 - Tripnmonkey - Contributor https://github.com/codeonedotzero
 - Blockface - Mentor https://github.com/exponentlabshq
 
-## 📸 Screenshot of my vide coding development
+## 📸 Screenshot of my vibe coding development
 <img width="3390" height="1772" alt="image" src="https://github.com/user-attachments/assets/5c3954d8-c828-41ab-9380-eebfa208ef9c" />
 
 
