@@ -1,4 +1,4 @@
-# Trivia App (TAPP) Smart Contract
+# Trivia App  Smart Contract
 
 This is a simple Clarity smart contract implementing a **fungible token** (SIP-010) on the Stacks blockchain. Anyone can mint tokens using the `mint` function.
 
