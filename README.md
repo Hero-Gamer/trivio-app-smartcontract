@@ -10,9 +10,9 @@ A popular game format with proven staying power and wide appeal.
 
 **Play today!** https://v0-trivia-app-with-bitcoin.vercel.app/
 
-<img src="https://github.com/user-attachments/assets/fa52485c-8707-4b6d-bf51-7dd6f2b073e8" alt="My Image" width="20%">
-<img src="https://github.com/user-attachments/assets/e3768f6c-f20e-4fca-951f-573b787220f8" alt="My Image" width="20%">
-<img src="https://github.com/user-attachments/assets/28a181c7-855f-4a39-b963-5ab9df017be1" alt="My Image" width="40%">
+<img src="https://github.com/user-attachments/assets/8bb1a126-96b3-4a65-bc81-6ae028e4ef3a" alt="My Image" width="20%">
+<img src="https://github.com/user-attachments/assets/00200214-03ff-444e-8541-96114b6f7196" alt="My Image" width="20%">
+<img src="https://github.com/user-attachments/assets/b26f721b-ccb5-42a7-b0df-ae8487c37dc1" alt="My Image" width="40%">
 
 Share your game achievement on X and invite friends & family to join you!
 
