@@ -2,6 +2,8 @@
 
 This is a simple Clarity smart contract implementing a **fungible token** (SIP-010) on the Stacks blockchain. Anyone can mint tokens using the `mint` function.
 
+-- published contract STQT0MR6AENYQ71HD4D5N9VR8HBQC4Y9XNPJ9NG9.trivia  
+
 ---
 
 ## Example Contract Calls

@@ -1,0 +1,29 @@
+---
+id: 0
+name: Testnet deployment
+network: testnet
+stacks-node: "https://api.testnet.hiro.so"
+bitcoin-node: "http://blockstack:blockstacksystem@bitcoind.testnet.stacks.co:18332"
+plan:
+  batches:
+    - id: 0
+      transactions:
+        - requirement-publish:
+            contract-id: SP3FBR2AGK5H9QBDH3EEN6DF8EK8JY7RX8QJ5SVTE.sip-010-trait-ft-standard
+            remap-sender: STQT0MR6AENYQ71HD4D5N9VR8HBQC4Y9XNPJ9NG9
+            remap-principals:
+              SP3FBR2AGK5H9QBDH3EEN6DF8EK8JY7RX8QJ5SVTE: STQT0MR6AENYQ71HD4D5N9VR8HBQC4Y9XNPJ9NG9
+            cost: 8400
+            path: "./.cache/requirements/SP3FBR2AGK5H9QBDH3EEN6DF8EK8JY7RX8QJ5SVTE.sip-010-trait-ft-standard.clar"
+            clarity-version: 1
+      epoch: "2.0"
+    - id: 1
+      transactions:
+        - contract-publish:
+            contract-name: trivia
+            expected-sender: STQT0MR6AENYQ71HD4D5N9VR8HBQC4Y9XNPJ9NG9
+            cost: 13010
+            path: contracts/trivio.clar
+            anchor-block-only: true
+            clarity-version: 3
+      epoch: "3.1"
