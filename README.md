@@ -16,6 +16,9 @@ A popular game format with proven staying power and wide appeal.
 
 Share your game achievement on X and invite friends & family to join you!
 
+## 📺 Pitch Video
+https://www.loom.com/share/d9af135dabb6417b99525238e2d234e0?sid=5afaf28f-0f34-493a-bc9f-d1c93a5fe8de
+
 ## 🧩 Problem
 
 Learning Bitcoin is confusing and boring for newcomers — existing tools fail to keep people engaged or rewarded.
