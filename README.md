@@ -50,6 +50,7 @@ Converts curiosity → wallets → on-chain actions.
 3. Earn points – instant feedback animation → “+20 Sats Points!”
 4. Claim reward – “Claim your reward!” CTA after X points → Stacks NFT mint or simulated mint via ZeroAuthority.
 5. Share moment – generates image + link card (“I just claimed sats on Bitcoin Brain 💥”).
+6. sBTC Swap – convert your points into real money, sBTC!
 
 ## ⚙️ Feasibility
 
