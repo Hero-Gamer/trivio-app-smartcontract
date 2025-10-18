@@ -11,11 +11,12 @@ A popular game format with proven staying power and wide appeal.
 
 **Play today!** https://v0-trivia-app-with-bitcoin.vercel.app/
 
+Share your game achievement on X and invite friends & family to join you to start playing & earning sBTC!
+
 <img src="https://github.com/user-attachments/assets/8bb1a126-96b3-4a65-bc81-6ae028e4ef3a" alt="My Image" width="20%">
 <img src="https://github.com/user-attachments/assets/00200214-03ff-444e-8541-96114b6f7196" alt="My Image" width="20%">
 <img src="https://github.com/user-attachments/assets/b26f721b-ccb5-42a7-b0df-ae8487c37dc1" alt="My Image" width="40%">
 
-Share your game achievement on X and invite friends & family to join you!
 
 ## 📺 Pitch Video
 https://www.loom.com/share/d9af135dabb6417b99525238e2d234e0?sid=5afaf28f-0f34-493a-bc9f-d1c93a5fe8de
