@@ -1,8 +1,9 @@
 # 🧠 Quiz Brain  — the daily quiz game that pays you in crypto!
 
-## 📺 Product Demo Video and description
+## 📺 Product Demo Video
 - ▶️ [Watch Quiz Brain product demo](https://youtu.be/-2fdfBfrN3Y?si=p_nGHGv-uyJJRy18)
 
+## ⭐ App description
 A daily, cerebral trivia app where players answer short AI-generated quizzes, earn Sats Points, and occasionally claim real Bitcoin-backed collectibles on Stacks.
 Delight, surprise, and shareability drive engagement. 
 
