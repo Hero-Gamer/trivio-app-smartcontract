@@ -9,7 +9,7 @@ Delight, surprise, and shareability drive engagement.
 
 A popular game format with proven staying power and wide appeal.
 
-**Play today!** https://v0-trivia-app-with-bitcoin.vercel.app/
+**Play today!** https://quiz-brain-trivia-app.vercel.app/
 
 Share your game achievement on X and invite friends & family to join you to start playing & earning sBTC!
 
