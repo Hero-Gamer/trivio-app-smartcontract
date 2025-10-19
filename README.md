@@ -19,7 +19,7 @@ Share your game achievement on X and invite friends & family to join you to star
 
 
 ## 📺 Pitch Video
-https://www.loom.com/share/d9af135dabb6417b99525238e2d234e0?sid=5afaf28f-0f34-493a-bc9f-d1c93a5fe8de
+https://www.loom.com/share/3d21048acb2f4a089f5c7a03807ff074?sid=ff81f6dc-949a-4ec8-879f-eed0f767de7a
 
 ## 🧩 Problem
 
